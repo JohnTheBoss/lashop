@@ -4,9 +4,9 @@ lashop - is simple shop based on laravel 5.4
 
 ## Installation
 
-Install the package through [Composer](http://getcomposer.org/). 
+Install the package through GIT: 
 
-Run the Composer require command from the Terminal:
+Run the git command from the Terminal:
 
     git clone https://github.com/utz0r2/lashop.git lashop.dev
 
