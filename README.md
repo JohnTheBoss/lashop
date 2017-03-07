@@ -18,6 +18,8 @@ Next, you will need to run composer install into your lashop project folder
 	
 	php artisan migrate:refresh --seed
 
+Authorization: /admin email: admin@admin.com  pass: admin
+
 ## Todo
 * set admin category by name
 * edit order on admin
